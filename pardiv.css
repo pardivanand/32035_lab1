@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    text-decoration: double;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 5px 5px 5px orange;
+    letter-spacing:5px;
+    word-spacing:10px;
+}
+.bodystyle{
+    background-color: aquamarine;
+    border: 10px solid rgb(18, 11, 231);
+    text-align: center;
+}
